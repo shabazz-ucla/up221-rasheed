@@ -1,7 +1,7 @@
 # up221-rasheed
 
 # profile
-<b>Rasheed Shabazz</b> is an urban planning doctoral student. His work focuses on race, space, and history. 
+<b>Shabazz</b> is an urban planning doctoral student. His work focuses on race, space, and history. 
 
 ## Course description
 GIS and Spatial Data Science exposes students to spatial data science.
